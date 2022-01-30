@@ -7,6 +7,6 @@ To address this problem in hand, I developed a FAQ based chatbot solution for sc
 ![Snap1](https://user-images.githubusercontent.com/46521948/151703505-7a9f7837-350c-4057-bd52-7160a7700f68.png)
 ![snap2](https://user-images.githubusercontent.com/46521948/151703775-c8ccd27d-1911-4497-8190-9866e6921a6a.png)
 ## Sources of FAQs
-https://azure.microsoft.com/en-in/support/faq
-https://www.interviewbit.com/cloud-computing-interview-questions
-https://www.interviewbit.com/azure-interview-questions
+https://azure.microsoft.com/en-in/support/faq <br/>
+https://www.interviewbit.com/cloud-computing-interview-questions <br/>
+https://www.interviewbit.com/azure-interview-questions <br/>
