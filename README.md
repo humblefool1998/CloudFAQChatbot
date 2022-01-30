@@ -6,8 +6,10 @@ The global cloud computing market size is expected to grow from USD 445.3 billio
 ## Solution
 To address this problem in hand, I developed a FAQ based chatbot solution for school students so that they can clarify their queries related to cloud and Azure easily using a Conversational AI interface. . The QnA maker API extracts possible FAQs related to cloud and Azure from credible websites and Azure official documentation page and creates a Question-Answering layer on top of it. After this, using Azure Bot Service, a chatbot instance is initiated using webchat channel through which students can clarify their doubts using a Conversational AI interface from anywhere. 
 ## Snapshots of project demo:
-![Snap1](https://user-images.githubusercontent.com/46521948/151703505-7a9f7837-350c-4057-bd52-7160a7700f68.png)
-![snap2](https://user-images.githubusercontent.com/46521948/151703775-c8ccd27d-1911-4497-8190-9866e6921a6a.png)
+![pic1](https://user-images.githubusercontent.com/46521948/151711429-6da223a8-99dc-431e-b707-56878bd7060e.png)
+![pic2](https://user-images.githubusercontent.com/46521948/151711449-b7f79867-2738-4458-84d6-3ceb9b7f3eb9.png)
+![pic3](https://user-images.githubusercontent.com/46521948/151711463-03f702f1-42cc-43ff-abbf-c768d4be9294.png)
+![pic4](https://user-images.githubusercontent.com/46521948/151711480-4c7a636c-eb69-491c-9ccf-2fc936bceffa.png)
 ## Sources of FAQs
 https://azure.microsoft.com/en-in/support/faq <br/>
 https://www.interviewbit.com/cloud-computing-interview-questions <br/>
