@@ -1,7 +1,7 @@
 /*
-     POST /knowledgebases/8acd60ca-96c0-4928-aedc-50af1d8c8202/generateAnswer
+     POST /knowledgebases/"KEY"/generateAnswer
      Host: https://raktimqnaservice.azurewebsites.net/qnamaker
-     Authorization: EndpointKey fb2aba76-e8e7-4e6f-9db6-b673754ad61b
+     Authorization: EndpointKey "KEY"
      Content-Type: application/json
      {"question":"<Your question>"}
 */   
