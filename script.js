@@ -24,7 +24,7 @@ const styleSet = window.WebChat.createStyleSet({
 
     window.WebChat.renderWebChat({
       directLine: window.WebChat.createDirectLine({
-          token: 'ztbNafDL1qc.2fDYf6JC8e5fjpp3jeTi9aI4npXef52SKyQqOd6I5eY'}),   //QnA Maker generated token
+          token: 'ENTER TOKEN'}),   //QnA Maker generated token
          /*
          <iframe src='https://webchat.botframework.com/embed/raktimqnaservice-bot?s=YOUR_SECRET_HERE'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
          */
