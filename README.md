@@ -4,7 +4,7 @@ https://ambitious-island-02fd9b110.1.azurestaticapps.net
 ## Deployment Steps
 **1. First a QnA maker resource is created and is trained with the FAQ sources as mentioned below.**
 ![1](https://user-images.githubusercontent.com/46521948/151712137-82492e8f-e6a9-4a7f-834c-d6c13b6ab3c8.png)
-**2. The Knowledge Base is then published and the endpoint is generated.**
+**2. The Knowledge Base is then published and the endpoint is generated.** <br/>
 **3. Then a Bot is initiated from Azure Bot service and is connected with the Knowledge Base (KB).** <br/>
 **4. The embeddable web chat channel is initiated for the bot, and the Secret Keys are noted.**
 ![4](https://user-images.githubusercontent.com/46521948/151712159-813d287e-8511-4bba-8e25-d49f967f1b6e.png)
